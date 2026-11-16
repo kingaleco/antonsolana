@@ -1,8 +1,8 @@
 /* ============ CONFIG: fill these in at launch ============ */
 const CONFIG = {
-  ca: "AhhvyRS9Ye4dGLxCCt8fg5ErmRkyMeW8zRVxk8nLpump",
-  buy: "https://pump.fun/coin/AhhvyRS9Ye4dGLxCCt8fg5ErmRkyMeW8zRVxk8nLpump",
-  chart: "https://dexscreener.com/solana/AhhvyRS9Ye4dGLxCCt8fg5ErmRkyMeW8zRVxk8nLpump",
+  ca: "",                 // contract address (relaunch pending)
+  buy: "https://pump.fun", // https://pump.fun/coin/<CA>
+  chart: "",              // https://dexscreener.com/solana/<CA>
   x: "https://x.com/ant0nsol",
   tg: "https://t.me/Ant0NSOL",
   site: "https://antonsolana.meme",
